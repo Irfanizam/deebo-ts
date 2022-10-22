@@ -23,7 +23,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-, "src/components/Clients.js", "src/components/Contact.js", "src/components/About.js", "src/components/About.js"  ],
+, "src/utilits.js", "src/components/Clients.js", "src/components/Contact.js", "src/components/About.js", "src/components/About.js"  ],
   "exclude": [
     "node_modules"
   ]
