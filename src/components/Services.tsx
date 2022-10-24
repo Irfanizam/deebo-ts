@@ -8,7 +8,7 @@ export default function Services() {
                 <div className="container">
                     <div className="services_wrapper">
                         <div className="services_title">
-                            <h3>Amazing Services</h3>
+                            <h3>Services Provided</h3>
                         </div>
                         <div className="services_content">
                             <div className="service_direct">
@@ -17,14 +17,14 @@ export default function Services() {
                                         <div className="direct_wrapper">
                                             <div className="service_direct_left_bar">
                                                 <div className="img_wrapper">
-                                                    <div className="abs_img" style={{"backgroundImage":"url(img/service/service1.jpg)"}}></div>
+                                                    <div className="abs_img" style={{"backgroundImage":"url(img/service/15.png)"}}></div>
                                                     <img src="img/thumb/550-300.jpg" alt="" />
                                                 </div>
                                             </div>
                                             <div className="service_direct_right_bar">
-                                                <h2>Websites &amp; platforms</h2>
-                                                <p className="start_from">Starts from</p>
-                                                <p className="price">$500</p>
+                                                <h2>Websites for streaming</h2>
+                                                <p className="start_from">Price</p>
+                                                <p className="price">RM4.00</p>
                                             </div>
                                         </div>
                                     </li>
@@ -32,14 +32,14 @@ export default function Services() {
                                         <div className="direct_wrapper">
                                             <div className="service_direct_left_bar">
                                                 <div className="img_wrapper">
-                                                    <div className="abs_img" style={{"backgroundImage":"url(img/service/service2.jpg)"}}></div>
+                                                    <div className="abs_img" style={{"backgroundImage":"url(img/service/12.png)"}}></div>
                                                     <img src="img/thumb/550-300.jpg" alt="" />
                                                 </div>
                                             </div>
                                             <div className="service_direct_right_bar">
-                                                <h2>Mobile applications</h2>
-                                                <p className="start_from">Starts from</p>
-                                                <p className="price">$450</p>
+                                                <h2>Spotify</h2>
+                                                <p className="start_from">Price</p>
+                                                <p className="price">RM49.20</p>
                                             </div>
                                         </div>
                                     </li>
@@ -47,14 +47,14 @@ export default function Services() {
                                         <div className="direct_wrapper">
                                             <div className="service_direct_left_bar">
                                                 <div className="img_wrapper">
-                                                    <div className="abs_img" style={{"backgroundImage":"url(img/service/service3.jpg)"}}></div>
+                                                    <div className="abs_img" style={{"backgroundImage":"url(img/service/13.png)"}}></div>
                                                     <img src="img/thumb/550-300.jpg" alt="" />
                                                 </div>
                                             </div>
                                             <div className="service_direct_right_bar">
-                                                <h2>Strategy &amp; branding</h2>
-                                                <p className="start_from">Starts from</p>
-                                                <p className="price">$500</p>
+                                                <h2>Advertising &amp; selling product</h2>
+                                                <p className="start_from">Price</p>
+                                                <p className="price">RM100.32</p>
                                             </div>
                                         </div>
                                     </li>
@@ -62,14 +62,14 @@ export default function Services() {
                                         <div className="direct_wrapper">
                                             <div className="service_direct_left_bar">
                                                 <div className="img_wrapper">
-                                                    <div className="abs_img" style={{"backgroundImage":"url(img/service/service4.jpg)"}}></div>
+                                                    <div className="abs_img" style={{"backgroundImage":"url(img/service/14.png)"}}></div>
                                                     <img src="img/thumb/550-300.jpg" alt="" />
                                                 </div>
                                             </div>
                                             <div className="service_direct_right_bar">
-                                                <h2>Design conspect</h2>
-                                                <p className="start_from">Starts from</p>
-                                                <p className="price">$450</p>
+                                                <h2>Platform for news</h2>
+                                                <p className="start_from">Price</p>
+                                                <p className="price">RM4420.50</p>
                                             </div>
                                         </div>
                                     </li>

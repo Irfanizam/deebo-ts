@@ -35,7 +35,7 @@ export default function HeroHeader({ resumeTrueFalse }) {
                     <div className="content">
                         <div className="left_hero_header">
                             <div className="circle">
-                                <div className="bg_img" style={{ "backgroundImage": "url(img/header/1.jpg)" }}></div>
+                                <div className="bg_img" style={{ "backgroundImage": "url(img/header/10.png)" }}></div>
                                 <img src="img/thumb/square.jpg" alt="" />
                                 <div className="circle_holder_blue"><span></span></div>
                                 <div className="circle_holder_orange"><span></span></div>
@@ -62,7 +62,7 @@ export default function HeroHeader({ resumeTrueFalse }) {
                         </div>
                         <div className="right_hero_header">
                             <div className="my_self">
-                                <h4>Hello! I Am</h4>
+                                <h4>Assalamualaikum, I am a</h4>
                                 {/* - It is animation title. You can change animation variation by changing extra class to one of next classes: zoom, rotate-1, letters type, letters rotate-2, loading-bar, slide, clip, letters rotate-3, letters scale, push. cd-headline class can not be removed.  */}
                                 <h2 className="cd-headline clip">
                                     <span className="cd-words-wrapper">

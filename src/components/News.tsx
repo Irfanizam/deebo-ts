@@ -33,10 +33,10 @@ const News = () => {
             <div className="container narrow">
                 <div className="about_tips">
                     <div className="tip_title">
-                        <h3>Latest News &amp; Tips</h3>
+                        <h3>Other people's example</h3>
                     </div>
                     <div className="tip_text">
-                        <p>I regularly release design courses, offer advice to newbie designers, walk you through creating awesome effects, and share source files.</p>
+                        <p>Full developed project that can inspire.</p>
                     </div>
                 </div>
             </div>
@@ -50,11 +50,11 @@ const News = () => {
                                 data-index={1}
                             >
                                 <div className="img_wrapper">
-                                    <div className="abs_img" data-bg-img="img/blog/1.jpg"></div>
+                                    <div className="abs_img" data-bg-img="img/blog/16.png"></div>
                                     <img src="img/blog/tip.png" alt="" />
                                 </div>
                                 <p>November 18, 2021</p>
-                                <h5><a href="#">Emotional Slider Animation in After Effects</a></h5>
+                                <h5><a href="https://cuberto.com/tutorials/8/">Emotional Slider Animation in After Effects</a></h5>
                                 <div className="fn__hidden">
                                     <p className="fn__cat">November 18, 2021</p>
                                     <h3 className="fn__title">Emotional Slider Animation in After Effects</h3>
@@ -75,11 +75,11 @@ const News = () => {
                                 data-index={2}
                             >
                                 <div className="img_wrapper">
-                                    <div className="abs_img" data-bg-img="img/blog/2.jpg"></div>
+                                    <div className="abs_img" data-bg-img="img/blog/17.png"></div>
                                     <img src="img/blog/tip.png" alt="" />
                                 </div>
                                 <p>September 15, 2021</p>
-                                <h5><a href="#">Principle Tutorial &amp; Onboarding Flow Animation</a></h5>
+                                <h5><a href="https://dribbble.com/shots/12580831-Principle-Tutorial-Onboarding-Flow-Animation">Principle Tutorial &amp; Onboarding Flow Animation</a></h5>
                                 <div className="fn__hidden">
                                     <p className="fn__cat">September 15, 2021</p>
                                     <h3 className="fn__title">Principle Tutorial &amp; Onboarding Flow Animation</h3>
@@ -100,11 +100,11 @@ const News = () => {
                                 data-index={3}
                             >
                                 <div className="img_wrapper">
-                                    <div className="abs_img" data-bg-img="img/blog/3.jpg"></div>
+                                    <div className="abs_img" data-bg-img="img/blog/18.png"></div>
                                     <img src="img/blog/tip.png" alt="" />
                                 </div>
                                 <p>September 03, 2021</p>
-                                <h5><a href="#">Ordering Ballooon Bouquets UI Design and Animation</a></h5>
+                                <h5><a href="https://cuberto.com/tutorials/11/">Ordering Ballooon Bouquets UI Design and Animation</a></h5>
                                 <div className="fn__hidden">
                                     <p className="fn__cat">September 03, 2021</p>
                                     <h3 className="fn__title">Ordering Ballooon Bouquets UI Design and Animation</h3>
@@ -125,11 +125,11 @@ const News = () => {
                                 data-index={4}
                             >
                                 <div className="img_wrapper">
-                                    <div className="abs_img" data-bg-img="img/blog/4.jpg"></div>
+                                    <div className="abs_img" data-bg-img="img/blog/19.png"></div>
                                     <img src="img/blog/tip.png" alt="" />
                                 </div>
                                 <p>August 20, 2021</p>
-                                <h5><a href="#">How to Prepare Your Design Portfolio</a></h5>
+                                <h5><a href="https://cuberto.com/tutorials/12/">How to Prepare Your Design Portfolio</a></h5>
                                 <div className="fn__hidden">
                                     <p className="fn__cat">August 20, 2021</p>
                                     <h3 className="fn__title">How to Prepare Your Design Portfolio</h3>
@@ -150,11 +150,11 @@ const News = () => {
                                 data-index={5}
                             >
                                 <div className="img_wrapper">
-                                    <div className="abs_img" data-bg-img="img/blog/5.jpg"></div>
+                                    <div className="abs_img" data-bg-img="img/blog/20.png"></div>
                                     <img src="img/blog/tip.png" alt="" />
                                 </div>
                                 <p>July 11, 2021</p>
-                                <h5><a href="#">Lottie Animation &amp; After Effects Tutorial</a></h5>
+                                <h5><a href="https://cuberto.com/tutorials/10/">Lottie Animation &amp; After Effects Tutorial</a></h5>
                                 <div className="fn__hidden">
                                     <p className="fn__cat">July 11, 2021</p>
                                     <h3 className="fn__title">Lottie Animation &amp; After Effects Tutorial</h3>
@@ -175,11 +175,11 @@ const News = () => {
                                 data-index={6}
                             >
                                 <div className="img_wrapper">
-                                    <div className="abs_img" data-bg-img="img/blog/6.jpg"></div>
+                                    <div className="abs_img" data-bg-img="img/blog/21.png"></div>
                                     <img src="img/blog/tip.png" alt="" />
                                 </div>
                                 <p>June 05, 2021</p>
-                                <h5><a href="#">How to prepare your design portfolio on Behance</a></h5>
+                                <h5><a href="https://cuberto.com/tutorials/35/">How to prepare your design portfolio on Behance</a></h5>
                                 <div className="fn__hidden">
                                     <p className="fn__cat">June 05, 2021</p>
                                     <h3 className="fn__title">How to prepare your design portfolio on Behance</h3>
@@ -200,14 +200,13 @@ const News = () => {
                                 data-index={7}
                             >
                                 <div className="img_wrapper">
-                                    <div className="abs_img" data-bg-img="img/blog/7.jpg"></div>
-                                    <img src="img/blog/tip.png" alt="" />
+                                    <div className="abs_img"></div>
                                 </div>
-                                <p>May 12, 2021</p>
-                                <h5><a href="#">A Case for Becoming More Gentle in Your Life</a></h5>
+                                <p></p>
+                                <h5><a href="#"></a></h5>
                                 <div className="fn__hidden">
-                                    <p className="fn__cat">May 12, 2021</p>
-                                    <h3 className="fn__title">A Case for Becoming More Gentle in Your Life</h3>
+                                    <p className="fn__cat"></p>
+                                    <h3 className="fn__title"></h3>
                                     <div className="img_holder">
                                         <img src="img/thumb/square.jpg" alt="" />
                                         <div className="abs_img" data-bg-img="img/blog/7.jpg"></div>
@@ -225,14 +224,14 @@ const News = () => {
                                 data-index={8}
                             >
                                 <div className="img_wrapper">
-                                    <div className="abs_img" data-bg-img="img/blog/8.jpg"></div>
-                                    <img src="img/blog/tip.png" alt="" />
+                                    <div className="abs_img" ></div>
+                                   
                                 </div>
-                                <p>March 23, 2021</p>
-                                <h5><a href="#">When Father’s Day is Different for You</a></h5>
+                                <p></p>
+                                <h5><a href="#"></a></h5>
                                 <div className="fn__hidden">
-                                    <p className="fn__cat">March 23, 2021</p>
-                                    <h3 className="fn__title">When Father’s Day is Different for You</h3>
+                                    <p className="fn__cat"></p>
+                                    <h3 className="fn__title"></h3>
                                     <div className="img_holder">
                                         <img src="img/thumb/square.jpg" alt=""/>
                                             <div className="abs_img" data-bg-img="img/blog/8.jpg"></div>

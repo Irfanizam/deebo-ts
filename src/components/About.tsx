@@ -9,7 +9,8 @@ export default function About() {
         <div className="container narrow">
           <div className="about_me">
             <div className="about_me_text">
-              <p>A creative person with solid design and development expertise. I build readymade websites, mobile applications, and elaborate online business services.
+              <p>I build websites for customer that met their requirements and fixes error.
+              On top of that, I design new ideas for customers to use.
               </p>
             </div>
             <div className="about_me_more">

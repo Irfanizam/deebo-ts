@@ -31,10 +31,10 @@ export default function Contact() {
 				<div className="contact_title">
 					<div className="container narrow">
 						<div className="title">
-							<h3>Get In Touch</h3>
+							<h3>Contact Us!</h3>
 						</div>
 						<div className="subtitle">
-							<p>Want to say hello? Want to know about me? Give me a call or drop me an email and I will get back to you as soon as I can.</p>
+							<p>Have question that you want to ask feel free to email or contact us through the details given and fill in as well your details.</p>
 						</div>
 					</div>
 				</div>
@@ -142,14 +142,14 @@ export default function Contact() {
 						<div className="contact_wrapper_address">
 							<div className="address_header">
 								<p>Address</p>
-								<h4>69 Queen St, Melbourne Australia</h4>
+								<h4>Bangi, Selangor</h4>
 							</div>
 							<div className="address_middle">
 								<p>Phone</p>
-								<h4><a href="tel:+7068980751">(+880) 1674 052 925</a></h4>
+								<h4><a href="tel:+7068980751">0142949283</a></h4>
 							</div>
 							<div className="address_footer">
-								<a href="mailto:trendycoder.com@gmail.com">trendycoder.com@gmail.com</a>
+								<a href="mailto:trendycoder.com@gmail.com">irfanizam34@gmail</a>
 							</div>
 						</div>
 					</div>

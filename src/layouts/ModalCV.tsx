@@ -23,10 +23,10 @@ export default function ModalCV({ resumeTrueFalse }) {
                     <div className="cv__header">
                         <div className="in">
                             <div className="avatar">
-                                <img src="img/header/1.jpg" alt="" />
+                                <img src="img/header/9.png" alt="" />
                             </div>
-                            <h3><span>Adam</span> Milner</h3>
-                            <p>I’m available for a freelance job. Hire me</p>
+                            <h3><span>Muhd</span> Irfan</h3>
+                            <p>I am currently looking for a full-time job. <br></br>Hire me up !</p>
                             <ul className="social">
                                 <li>
                                     <a href="#" target="_blank" title="twitter.com">
@@ -65,21 +65,21 @@ export default function ModalCV({ resumeTrueFalse }) {
                         {/* CV: Biography Section  */}
                         <section id="cv_biography">
                             <div className="section_title">
-                                <h3>Biography</h3>
+                                <h3>My Profile</h3>
                             </div>
-                            <p>I'm a Freelancer Front-end Developer with over 12 years of experience. I'm from San Francisco. I code and create web elements for amazing people around the world. I like work with new people. New people are new experiences.</p>
+                            <p>I am a student in Computer Science Bachelor Degree and also a freelancer part-time Front-end and Back-end developer with 3 years of experience. I am from Bandar Baru Bangi, Selangor. I love coding and create new connection with peoples that are from the same interest background.</p>
                             <div className="fn_cs_info_items">
                                 <ul>
-                                    <li><p>Name: <span>Adam Milner</span></p></li>
-                                    <li><p>Birthday: <span>June 14, 1992</span></p></li>
-                                    <li><p>Languages: <span>English, Italian, Arabic</span></p></li>
-                                    <li><p>Age: <span>29 Years</span></p></li>
-                                    <li><p>Nationality: <span>American</span></p></li>
-                                    <li><p>Adress: <span>London, UK</span></p></li>
+                                    <li><p>Name: <span>Muhd Irfan</span></p></li>
+                                    <li><p>Birthday: <span>September 3, 2000</span></p></li>
+                                    <li><p>Languages: <span>Malay and English</span></p></li>
+                                    <li><p>Age: <span>22 Years old</span></p></li>
+                                    <li><p>Nationality: <span>Malaysian</span></p></li>
+                                    <li><p>Adress: <span>Bandar Baru Bangi Seksyen 8</span></p></li>
                                     <li><p>Telegram: <span>Available</span></p></li>
-                                    <li><p>Phone: <span><a href="tel:+8801674052925">(+880) 1674 052 925</a></span></p></li>
-                                    <li><p>Skype: <span>Adam.M</span></p></li>
-                                    <li><p>Email: <span><a href="mailto:farhad1009@gmail.com">farhad1009@gmail.com</a></span></p></li>
+                                    <li><p>Phone: <span><a href="tel:0182964039">018-2964039</a></span></p></li>
+                                    <li><p>Instagram: <span>Private</span></p></li>
+                                    <li><p>Email: <span><a href="mailto:farhad1009@gmail.com">irfanizam34@gmail.com</a></span></p></li>
                                 </ul>
                             </div>
                         </section>
@@ -96,31 +96,31 @@ export default function ModalCV({ resumeTrueFalse }) {
                                     <li>
                                         <div className="item">
                                             <div className="item_top">
-                                                <h5>Frenify University</h5>
-                                                <span>( 2014 — 2017 )</span>
+                                                <h5>UiTM Jasin, Melaka</h5>
+                                                <span>( 2022 - 2024 )</span>
                                             </div>
                                             <h3>Computer Science</h3>
-                                            <p>Adipisicing Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                                            <p> Degree </p>
                                         </div>
                                     </li>
                                     <li>
                                         <div className="item">
                                             <div className="item_top">
-                                                <h5>Edu University</h5>
-                                                <span>( 2011 — 2014 )</span>
+                                                <h5>UiTM Tapah</h5>
+                                                <span>( 2019 - 2021 )</span>
                                             </div>
-                                            <h3>Master Degree</h3>
-                                            <p>Adipisicing Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                                            <h3>Applied Science</h3>
+                                            <p> Diploma </p>
                                         </div>
                                     </li>
                                     <li>
                                         <div className="item">
                                             <div className="item_top">
-                                                <h5>Clolumbia College</h5>
-                                                <span>( 2007 — 2011 )</span>
+                                                <h5>MRSM Lenggong</h5>
+                                                <span>( 2012 - 2017  )</span>
                                             </div>
-                                            <h3>Bachelor Degree</h3>
-                                            <p>Adipisicing Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                                            <h3>Science</h3>
+                                            <p> High School </p>
                                         </div>
                                     </li>
                                 </ul>
@@ -139,31 +139,31 @@ export default function ModalCV({ resumeTrueFalse }) {
                                     <li>
                                         <div className="item">
                                             <div className="item_top">
-                                                <h5>Frenify  LLC</h5>
-                                                <span>( 2018 — Today )</span>
+                                                <h5>React JS</h5>
+                                                <span>( 20122 — Today )</span>
                                             </div>
-                                            <h3>Sr. Front-end Engineer</h3>
-                                            <p>Adipisicing Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                                            <h3>Back-end Engineer</h3>
+                                            <p>Build websites.</p>
                                         </div>
                                     </li>
                                     <li>
                                         <div className="item">
                                             <div className="item_top">
-                                                <h5>Google  LLC</h5>
-                                                <span>( 2016 — 2018 )</span>
+                                                <h5>NASA</h5>
+                                                <span>( 2022 - Today)</span>
                                             </div>
-                                            <h3>Front-end Developer</h3>
-                                            <p>Adipisicing Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                                            <h3>Astronaut</h3>
+                                            <p>First human on moon.</p>
                                         </div>
                                     </li>
                                     <li>
                                         <div className="item">
                                             <div className="item_top">
-                                                <h5>Twitter  LLC</h5>
-                                                <span>( 2016 — 2011 )</span>
+                                                <h5>Typescript</h5>
+                                                <span>( Learning )</span>
                                             </div>
-                                            <h3>Graphic Designer</h3>
-                                            <p>Adipisicing Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                                            <h3>Back-end</h3>
+                                            <p>Build websites.</p>
                                         </div>
                                     </li>
                                 </ul>
@@ -243,56 +243,56 @@ export default function ModalCV({ resumeTrueFalse }) {
                         {/* CV: Services Section  */}
                         <section id="cv_services">
                             <div className="section_title">
-                                <h3>Services</h3>
+                                <h3>Product</h3>
                             </div>
-                            <p>I help ambitious businesses like yours generate more profits by building awareness, driving web traffic, connecting with customers and growing overall sales.</p>
+                            <p>Fix website's</p>
                             <div className="fn_cs_service_list">
                                 <ul>
                                     <li>
                                         <div className="item">
                                             <div className="item_left">
-                                                <h3>Websites &amp; platforms</h3>
-                                                <p>I build brands through cultural insights &amp; strategic vision. Custom crafted business solutions.</p>
+                                                <h3>Websites &amp; related</h3>
+                                                <p>Build websites according to requirements &amp; fixing errors.</p>
                                             </div>
                                             <div className="item_right">
                                                 <p>Starts from</p>
-                                                <h3>$500</h3>
+                                                <h3>RM 10 negotiable</h3>
                                             </div>
                                         </div>
                                     </li>
                                     <li>
                                         <div className="item">
                                             <div className="item_left">
-                                                <h3>Mobile applications</h3>
-                                                <p>Custom marketing solutions. Get your business on the next level. We provide worldwide marketing.</p>
+                                                <h3>Mobile design</h3>
+                                                <p>Design interface for mobile application.</p>
                                             </div>
                                             <div className="item_right">
                                                 <p>Starts from</p>
-                                                <h3>$450</h3>
+                                                <h3>RM 50 negotiable</h3>
                                             </div>
                                         </div>
                                     </li>
                                     <li>
                                         <div className="item">
                                             <div className="item_left">
-                                                <h3>Strategy &amp; branding</h3>
-                                                <p>Design direction for business. Get your business on the next level. We help to create great experiences.</p>
+                                                <h3>Advertise</h3>
+                                                <p>Helps advertise product or brands.</p>
                                             </div>
                                             <div className="item_right">
                                                 <p>Starts from</p>
-                                                <h3>$500</h3>
+                                                <h3>RM 5 negotiable</h3>
                                             </div>
                                         </div>
                                     </li>
                                     <li>
                                         <div className="item">
                                             <div className="item_left">
-                                                <h3>Design conspect</h3>
-                                                <p>Design direction for business. Get your business on the next level. We help to create great experiences.</p>
+                                                <h3>Produce design ideas</h3>
+                                                <p>Create new usable ideas for users.</p>
                                             </div>
                                             <div className="item_right">
                                                 <p>Starts from</p>
-                                                <h3>$450</h3>
+                                                <h3>RM 42 negotiable</h3>
                                             </div>
                                         </div>
                                     </li>
@@ -304,23 +304,23 @@ export default function ModalCV({ resumeTrueFalse }) {
                         {/* CV: Testimonials  */}
                         <section id="cv_testimonials">
                             <div className="section_title">
-                                <h3>References</h3>
+                                <h3>Review</h3>
                             </div>
-                            <p>A testimonial is effectively a review or recommendation from a client, letting other people know how your products or services benefitted them. We respect each client and help everyone with all our might.</p>
+                            <p></p>
 
                             <div className="fn_cs_testimonials">
                                 <ul>
                                     <li>
                                         <div className="item">
                                             <div className="item_left">
-                                                <p>One of the best. It works quite well for software development also. The design and ease of installation and customizing is exceptional. Many plaudits to the developers!</p>
+                                                <p>Best services provided. Good communication.</p>
                                             </div>
                                             <div className="item_right">
                                                 <div className="t_ava">
-                                                    <div className="ava_in" data-bg-img="img/testimonials/1.jpg"></div>
+                                                    <div className="ava_in" data-bg-img="img/testimonials/5.png"></div>
                                                 </div>
                                                 <div className="t_name">
-                                                    <p>OldPhot</p>
+                                                    <p>Mr Spongebob</p>
                                                 </div>
                                                 <div className="t_rating" data-stars="5">
                                                     <div className="rating_in">
@@ -334,14 +334,14 @@ export default function ModalCV({ resumeTrueFalse }) {
                                     <li>
                                         <div className="item">
                                             <div className="item_left">
-                                                <p>Very good design and code quality. The costumer support is excellent. They respond within minutes and solve problems on the fly. I sincerely recommend!</p>
+                                                <p>Code is developed very well and error is fixed. I would recommend for others to try!</p>
                                             </div>
                                             <div className="item_right">
                                                 <div className="t_ava">
-                                                    <div className="ava_in" data-bg-img="img/testimonials/2.jpg"></div>
+                                                    <div className="ava_in" data-bg-img="img/testimonials/6.png"></div>
                                                 </div>
                                                 <div className="t_name">
-                                                    <p>Wuoh</p>
+                                                    <p>Mr Squidward</p>
                                                 </div>
                                                 <div className="t_rating" data-stars="5">
                                                     <div className="rating_in">
@@ -355,14 +355,14 @@ export default function ModalCV({ resumeTrueFalse }) {
                                     <li>
                                         <div className="item">
                                             <div className="item_left">
-                                                <p>I Like the whole Theme, the design, customizability, features, etc. The support has been absolutely fantastic and friendly, helping me to solve any issue I was having.</p>
+                                                <p>The design provided to me was very details and met all the requirements.</p>
                                             </div>
                                             <div className="item_right">
                                                 <div className="t_ava">
-                                                    <div className="ava_in" data-bg-img="img/testimonials/3.jpg"></div>
+                                                    <div className="ava_in" data-bg-img="img/testimonials/7.png"></div>
                                                 </div>
                                                 <div className="t_name">
-                                                    <p>Bartolo</p>
+                                                    <p>Mr Patrick</p>
                                                 </div>
                                                 <div className="t_rating" data-stars="5">
                                                     <div className="rating_in">
@@ -376,14 +376,14 @@ export default function ModalCV({ resumeTrueFalse }) {
                                     <li>
                                         <div className="item">
                                             <div className="item_left">
-                                                <p>The best theme in the world ; Really love it. Support is amazing, and they always help me with my problems. To be honest - I have earlier other theme, but this is so good, that why I choose it</p>
+                                                <p>Response is very quick and trusted.</p>
                                             </div>
                                             <div className="item_right">
                                                 <div className="t_ava">
-                                                    <div className="ava_in" data-bg-img="img/testimonials/4.jpg"></div>
+                                                    <div className="ava_in" data-bg-img="img/testimonials/8.png"></div>
                                                 </div>
                                                 <div className="t_name">
-                                                    <p>Przemeknorek</p>
+                                                    <p>Mr Crab</p>
                                                 </div>
                                                 <div className="t_rating" data-stars="5">
                                                     <div className="rating_in">

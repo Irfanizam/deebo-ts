@@ -9,10 +9,10 @@ export default function Skills() {
                 <div className="scills_wrapper">
                     <div className="container narrow">
                         <div className="scills_title">
-                            <h3>Knowledge &amp; Skills</h3>
+                            <h3>Ability</h3>
                         </div>
                         <div className="scills_about">
-                            <p>For over a decade, I've helped businesses to craft honest, emotional experiences through strategy, brand development, graphic design, and web design. </p>
+                            <p>With days of experience, I am able to satisfied many customers.</p>
                         </div>
                     </div>
                     <div className="container narrow2">
