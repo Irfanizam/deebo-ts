@@ -50,7 +50,7 @@ const News = () => {
                                 data-index={1}
                             >
                                 <div className="img_wrapper">
-                                    <div className="abs_img" data-bg-img="img/blog/16.png"></div>
+                                    <div className="abs_img" data-bg-img="img/blog/1.png"></div>
                                     <img src="img/blog/tip.png" alt="" />
                                 </div>
                                 <p>November 18, 2021</p>
@@ -75,7 +75,7 @@ const News = () => {
                                 data-index={2}
                             >
                                 <div className="img_wrapper">
-                                    <div className="abs_img" data-bg-img="img/blog/17.png"></div>
+                                    <div className="abs_img" data-bg-img="img/blog/2.png"></div>
                                     <img src="img/blog/tip.png" alt="" />
                                 </div>
                                 <p>September 15, 2021</p>
@@ -100,7 +100,7 @@ const News = () => {
                                 data-index={3}
                             >
                                 <div className="img_wrapper">
-                                    <div className="abs_img" data-bg-img="img/blog/18.png"></div>
+                                    <div className="abs_img" data-bg-img="img/blog/3.png"></div>
                                     <img src="img/blog/tip.png" alt="" />
                                 </div>
                                 <p>September 03, 2021</p>
@@ -125,7 +125,7 @@ const News = () => {
                                 data-index={4}
                             >
                                 <div className="img_wrapper">
-                                    <div className="abs_img" data-bg-img="img/blog/19.png"></div>
+                                    <div className="abs_img" data-bg-img="img/blog/4.png"></div>
                                     <img src="img/blog/tip.png" alt="" />
                                 </div>
                                 <p>August 20, 2021</p>
@@ -150,7 +150,7 @@ const News = () => {
                                 data-index={5}
                             >
                                 <div className="img_wrapper">
-                                    <div className="abs_img" data-bg-img="img/blog/20.png"></div>
+                                    <div className="abs_img" data-bg-img="img/blog/5.png"></div>
                                     <img src="img/blog/tip.png" alt="" />
                                 </div>
                                 <p>July 11, 2021</p>
@@ -175,7 +175,7 @@ const News = () => {
                                 data-index={6}
                             >
                                 <div className="img_wrapper">
-                                    <div className="abs_img" data-bg-img="img/blog/21.png"></div>
+                                    <div className="abs_img" data-bg-img="img/blog/6.png"></div>
                                     <img src="img/blog/tip.png" alt="" />
                                 </div>
                                 <p>June 05, 2021</p>
