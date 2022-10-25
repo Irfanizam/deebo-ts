@@ -106,7 +106,7 @@ const NewsModalBox = ({ close, value }) => {
                       <img src="/img/thumb/square.jpg" alt="" />
                       <div
                         className="abs_img"
-                        data-bg-img={`/img/blog/${index}.jpg`}
+                        data-bg-img={`/img/blog/${index}.png`}
                       />
                     </div>
                     {d.desc.map((des) => (
